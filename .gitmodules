@@ -1,0 +1,3 @@
+[submodule "pygmonlib"]
+	path = pygmonlib
+	url = git@github.com:davidbirdsong/pygmonlib.git
